@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![banner](../assets/aq.jpg)
+
 Welcome to the official GitHub organization for AQ-MedAI.
 
 We are the AQ Team — AQ, short for “Answer your Questions,” an initiative from Ant Group. Our mission is to develop a universally accessible Medical AGI that provides trustworthy, evidence-based answers to health questions for everyone, everywhere.
