@@ -15,4 +15,4 @@ We are committed to fairness, transparency, and collaboration—delivering break
 
 - **Explore Our Models**: Check out our latest models and datasets on [Huggingface](https://huggingface.co/AQ-MedAI).
 - **Contribute**: Interested in contributing? Visit our [GitHub](https://github.com/AQ-MedAI) repository to get started.
-- **Join the Conversation**: Follow us on [Twitter](https://x.com/AQ_MedAI) for updates, and feel free to like, share, and engage with our work.
+- **Join the Conversation**: Follow us on [Twitter](https://x.com/AQ_MedAI) and [Reddit](https://www.reddit.com/r/AQ_MedAI/) for updates, and feel free to like, share, and engage with our work.
